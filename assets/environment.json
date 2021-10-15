@@ -1,0 +1,20 @@
+{
+    "width": 40,
+    "height": 40,
+    "frames": [
+        "stumps1",
+        "stumps2",
+        "clouds1",
+        "clouds2",
+        "burntTrees",
+        "frozenTree",
+        "mountain",
+        "meltedIceberg",
+        "tree1",
+        "tree2",
+        "volcano",
+        "iceberg"
+    ],
+    "animations": [],
+    "tags": "misc"
+}

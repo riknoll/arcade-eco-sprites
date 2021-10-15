@@ -1,0 +1,20 @@
+{
+    "width": 40,
+    "height": 40,
+    "frames": [
+        "recyclingCan",
+        "trashCan",
+        "yardWasteCan",
+        "polarBear",
+        "tsunami",
+        "twister",
+        "dust",
+        "thermometer",
+        "wasteCans",
+        "factory",
+        "tornado",
+        "plants"
+    ],
+    "animations": [],
+    "tags": "misc"
+}
